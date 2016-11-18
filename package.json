@@ -1,0 +1,26 @@
+{
+  "name": "react-native-wechat-share",
+  "version": "1.0.0",
+  "description": "ReactNative微信分享",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jafeney/react-native-wechat-share.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Jafeney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jafeney/react-native-wechat-share/issues"
+  },
+  "homepage": "https://github.com/Jafeney/react-native-wechat-share#readme",
+  "dependencies": {
+    "react-native-modalbox": "^1.3.8",
+    "react-native-wechat": "^1.7.0"
+  }
+}
